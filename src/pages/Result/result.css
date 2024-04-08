@@ -1,0 +1,29 @@
+.answer__list  p{
+    font-size: 17px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.answer__list .result__tag--true {
+    padding: 5px;
+    background-color: green;
+    border-radius: 10px;
+    margin-left: 10px;
+    color: #fff;
+}
+.answer__list .result__tag--false {
+    padding: 5px;
+    background-color: red;
+    border-radius: 10px;
+    margin-left: 10px;
+    color: #fff;
+}
+
+.result__item--selected {
+    color:red;
+}
+.result__item--result {
+    color: green;
+}
+.answer__list label {
+    font-weight: 500;
+}

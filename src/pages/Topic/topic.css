@@ -1,0 +1,15 @@
+table , th, td {
+    border: solid 1px #ddd;
+    padding: 10px;
+    border-collapse: collapse;
+    border-radius: 5px;
+}
+.table-topic {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 20px 200px;
+}
+.table-topic .table {
+    text-align: center;
+}

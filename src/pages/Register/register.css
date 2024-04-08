@@ -1,0 +1,17 @@
+.form-register {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.form-register .form {
+    text-align: center;
+}
+.form-register .buttonRegister{
+    background: #764371;
+}
+.form-register .buttonRegister:active{
+    background: #fff !important; 
+}
+.formRegister-title {
+    text-align: center;
+}
