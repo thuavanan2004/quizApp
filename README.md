@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Chào mừng bạn đến với trang chủ của chúng tôi! Ở đây, chúng tôi tự hào giới thiệu một nền tảng kiểm tra trắc nghiệm dành cho lập trình viên, là một nguồn tài nguyên vô giá để đánh giá và cải thiện kỹ năng lập trình của bạn. Với một cơ sở dữ liệu phong phú về kiến thức lập trình, chúng tôi cung cấp một cách hiệu quả để bạn tiếp cận với các câu hỏi chất lượng và đa dạng về HTML, CSS, Java và nhiều ngôn ngữ lập trình khác.
+
+Dù bạn mới bắt đầu hay đã có kinh nghiệm, trang kiểm tra của chúng tôi được thiết kế để phù hợp với mọi trình độ. Bạn có thể bắt đầu với các khái niệm cơ bản và dần dần tiến lên đến những vấn đề phức tạp hơn, tạo ra một hành trình học tập có cấu trúc và phát triển những kỹ năng một cách liên tục.
+
+Ngoài ra, chúng tôi không chỉ cung cấp các câu hỏi trắc nghiệm mà còn kèm theo giải thích chi tiết và phản hồi sau mỗi bài kiểm tra, giúp bạn hiểu rõ hơn về lỗi và cách khắc phục chúng. Điều này giúp bạn không chỉ biết được câu trả lời đúng mà còn hiểu vì sao đó là câu trả lời đúng.
+
+Hãy tham gia ngay hôm nay và khám phá cách chúng tôi có thể giúp bạn trở thành một lập trình viên xuất sắc hơn!
